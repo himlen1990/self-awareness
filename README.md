@@ -27,5 +27,5 @@ rosrun self-awarenss self_rec
 
 roscd self-awareness/data
 
-rosrun play close_drawer2.bag
+rosrun play close_drawer1.bag
 
